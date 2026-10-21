@@ -23,3 +23,13 @@
 | `developer` | Group |
 | `120` | File size |
 | `notes.txt` | Filename |
+
+### File Types
+
+| Symbol | Type |
+|---|---|
+| `-` | Normal file |
+| `d` | Directory |
+| `l` | Symbolic link |
+
+---
