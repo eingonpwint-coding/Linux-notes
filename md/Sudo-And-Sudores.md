@@ -57,3 +57,5 @@ thura is not in the sudoers file
 ဆိုတာ `thura` မှာ sudo permission မရှိတာဖြစ်ပါတယ်။
 
 ---
+
+[Back to Home](../README.md)

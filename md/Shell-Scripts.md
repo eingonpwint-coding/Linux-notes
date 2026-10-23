@@ -32,3 +32,5 @@ chmod +x hello.sh
 နဲ့စစ်ပါ။
 
 ---
+
+[Back to Home](../README.md)

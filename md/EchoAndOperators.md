@@ -68,3 +68,5 @@ Ctrl + C
 နှိပ်ပြီး cancel လုပ်ပါ။
 
 ---
+
+[Back to Home](../README.md)

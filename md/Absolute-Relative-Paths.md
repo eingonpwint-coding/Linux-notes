@@ -34,3 +34,4 @@ home   = လက်ရှိနေရာကနေစရှာ
 .      = လက်ရှိ directory
 ..     = အပေါ် directory
 ```
+[Back to Home](../README.md)

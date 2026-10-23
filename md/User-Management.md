@@ -77,3 +77,5 @@ sudo useradd -m -s /bin/bash testuser
 `-s` နဲ့ `/bin/bash` ကြားမှာ space ရှိရပါတယ်။
 
 ---
+
+[Back to Home](../README.md)

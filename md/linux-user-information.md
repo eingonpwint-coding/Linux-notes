@@ -59,3 +59,5 @@ sudo /etc/passwd
 ဘာကြောင့်လဲဆိုတော့ `sudo` က `/etc/passwd` ကို program လို execute လုပ်ဖို့ ကြိုးစားတာဖြစ်ပါတယ်။
 
 ---
+
+[Back to Home](../README.md)

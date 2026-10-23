@@ -21,3 +21,6 @@ ls -ld directory
 နဲ့စစ်ပါ။
 
 ---
+
+
+[Back to Home](../README.md)

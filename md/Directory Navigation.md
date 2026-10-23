@@ -8,3 +8,5 @@
 | `cd .` | Current directory ကိုဆိုလိုသည် |
 | `cd -` | Previous directory ကိုပြန်သွားရန် |
 | `cd /` | Root directory ကိုသွားရန် |
+
+[Back to Home](../README.md)

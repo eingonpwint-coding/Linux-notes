@@ -41,3 +41,5 @@ chmod = Change permission
 ```
 
 ---
+
+[Back to Home](../README.md)

@@ -19,3 +19,4 @@ eingonpwint@Lenovo:~$
 | `hostname` | Computer hostname ကြည့်ရန် |
 
 ---
+[Back to Home](../README.md)

@@ -52,3 +52,5 @@ sudo groupdel developer
 `-aG` က လက်ရှိ supplementary groups မဖယ်ဘဲ group အသစ်ထပ်ထည့်တာဖြစ်ပါတယ်။
 
 ---
+
+[Back to Home](../README.md)
