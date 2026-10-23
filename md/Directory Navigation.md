@@ -1,7 +1,7 @@
 | Command | Purpose |
 |---|---|
-| `cd` | ကိုယ့် Home ကိုသွားရန် |
-| `cd ~` | ကိုယ့် Home ကိုသွားရန် |
+| `cd` | /home/eingonpwint |
+| `cd ~` | /home/eingonpwint |
 | `cd /home` | System `/home` directory ကိုသွားရန် |
 | `cd /home/eingonpwint` | Ei Ngon ရဲ့ Home ကိုသွားရန် |
 | `cd ..` | Parent directory ကိုတစ်ဆင့်တက်ရန် |
